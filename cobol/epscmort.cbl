@@ -58,7 +58,7 @@
        01  BLANK-MSG                        PIC X(1) VALUE ' '.
            COPY DFHAID.
       *    COPY DFHEIBLK.
-           COPY EPSMORT8.
+           COPY EPSMORT.
 
        01  W-COMMUNICATION-AREA.
            COPY EPSMTCOM.
