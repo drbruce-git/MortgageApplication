@@ -2,4 +2,4 @@
 
           COPY EPSMTINP.
           COPY EPSMTOUT.
-      * COMMENT2
+      * COMMENT3
