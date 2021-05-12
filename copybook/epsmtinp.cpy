@@ -5,3 +5,7 @@
           10 EPSPCOM-QUOTED-INTEREST-RATE
                                         PIC S9(2)v9(3) COMP.
           10 EPSPCOM-YEAR-MONTH-IND   PIC X.
+      *
+           EXEC SQL
+               INCLUDE SQLCA
+           END-EXEC.
